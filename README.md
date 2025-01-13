@@ -7,6 +7,10 @@ The Band Generator Project is a simple application that generates random band na
 - Generate random band names
 - Simple and intuitive user interface
 
+
+## Preview 
+![Web service preview](preview.jpeg)
+
 ## Installation
 1. Clone the repository:
     ```bash
