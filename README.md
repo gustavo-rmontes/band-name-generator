@@ -28,7 +28,7 @@ The Band Generator Project is a simple application that generates random band na
 ## Usage
 1. Start the application:
     ```bash
-    npm start
+    node index.js
     ```
 2. Open your web browser and navigate to `http://localhost:3000`
 3. Enter your preferences and generate your band name!
